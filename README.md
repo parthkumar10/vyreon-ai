@@ -2,7 +2,7 @@
 
 **A streaming Gemini chatbot built as a hands-on Next.js learning project.**
 
-[Try the live demo](https://vyreon-ai.vercel.app) · [Report a bug](https://github.com/parthkumar10/fffj/issues)
+[Try the live demo](https://vyreon-ai.vercel.app) · [Report a bug](https://github.com/parthkumar10/vyreon-ai/issues)
 
 Vyreon AI connects a chat interface to Google's Gemini model through a server-side API route. It is a small, practical example of combining a React chat UI, streamed model responses, and server-only API credentials.
 
@@ -64,8 +64,8 @@ A screenshot is not included yet. Add a real screenshot of the running app at `d
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/parthkumar10/fffj.git
-   cd fffj
+   git clone https://github.com/parthkumar10/vyreon-ai.git
+   cd vyreon-ai
    ```
 
 2. Install the dependency versions recorded in the lockfile:

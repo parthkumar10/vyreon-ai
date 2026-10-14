@@ -50,7 +50,7 @@ export function ThreadListSidebar({
               size="lg"
               render={
                 <a
-                  href="https://github.com/parthkumar10/fffj"
+                  href="https://github.com/parthkumar10/vyreon-ai"
                   target="_blank"
                   rel="noopener noreferrer"
                 />
