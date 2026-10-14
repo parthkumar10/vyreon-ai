@@ -24,20 +24,14 @@ export function ThreadListSidebar({
             <SidebarMenuItem>
               <SidebarMenuButton
                 size="lg"
-                render={
-                  <a
-                    href="https://assistant-ui.com"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  />
-                }
+                render={<a href="/" />}
               >
                 <div className="aui-sidebar-header-icon-wrapper bg-sidebar-primary text-sidebar-primary-foreground flex aspect-square size-8 items-center justify-center rounded-lg">
                   <MessagesSquare className="aui-sidebar-header-icon size-4" />
                 </div>
                 <div className="aui-sidebar-header-heading me-6 flex flex-col gap-0.5 leading-none">
                   <span className="aui-sidebar-header-title font-semibold">
-                    assistant-ui
+                    Vyreon AI
                   </span>
                 </div>
               </SidebarMenuButton>
@@ -56,7 +50,7 @@ export function ThreadListSidebar({
               size="lg"
               render={
                 <a
-                  href="https://github.com/assistant-ui/assistant-ui"
+                  href="https://github.com/parthkumar10/fffj"
                   target="_blank"
                   rel="noopener noreferrer"
                 />
