@@ -97,6 +97,3 @@ Suggestions and focused improvements are welcome. Please keep changes scoped, av
 
 No license has been selected for this repository yet. Do not assume the code is available for reuse, modification, or redistribution.
 
-## Acknowledgments
-
-Built with [Google Gemini](https://ai.google.dev/), [Vercel AI SDK](https://ai-sdk.dev/), and [assistant-ui](https://www.assistant-ui.com/).
